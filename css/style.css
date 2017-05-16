@@ -5190,10 +5190,10 @@ button.close {
 /* Template Style =========== */
 body {
   font-family:  微软雅黑,"Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  /*font-weight: 300;*/
   font-size: 15px;
   line-height: 26px;
-  color: #818892; }
+ /* color: #818892;*/ }
 
 a {
   -webkit-transition: 0.5s;
